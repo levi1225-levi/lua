@@ -1,0 +1,5 @@
+Name = levi
+
+
+if name = levi then
+print "hello levi"
